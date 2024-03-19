@@ -7,6 +7,6 @@ In this paper, we propose a new transfer learning method guided by the direction
 method guides the gradient direction of the source task towards the gradient direction of the target task. In several similar and conflicting tasks, this method has achieved good results in efficiency and performance. In comparison with other transfer learning methods, the results shown by this method are generally better.
 
 <div align="center">
- <img src="https://raw.githubusercontent.com/jcjohnson/neural-style/master/examples/inputs/starry_night_google.jpg" height="223px">
+ <img src="https://github.com/KelvinTingZuoHan/GradMF/blob/fc07faeea2fffd070495cf7ae712ff8b73073120/GradMF%20.png" height="223px">
 </div>
 
